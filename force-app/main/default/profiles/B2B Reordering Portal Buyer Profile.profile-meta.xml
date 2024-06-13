@@ -13,6 +13,10 @@
     <layoutAssignments>
         <layout>qwert__c-qwert Layout</layout>
     </layoutAssignments>
+    <tabVisibilities>
+        <tab>abcd__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <userLicense>External Apps Login</userLicense>
     <userPermissions>
         <enabled>true</enabled>
