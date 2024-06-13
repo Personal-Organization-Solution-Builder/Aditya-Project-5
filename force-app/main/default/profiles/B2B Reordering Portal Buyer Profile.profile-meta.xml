@@ -4,6 +4,9 @@
     <layoutAssignments>
         <layout>TestObj__c-TestObj Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>abcd__c-abcd Layout</layout>
+    </layoutAssignments>
     <userLicense>External Apps Login</userLicense>
     <userPermissions>
         <enabled>true</enabled>
