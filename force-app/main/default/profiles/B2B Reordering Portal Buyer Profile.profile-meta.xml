@@ -7,6 +7,9 @@
     <layoutAssignments>
         <layout>abcd__c-abcd Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>jhgf__c-jhgf Layout</layout>
+    </layoutAssignments>
     <userLicense>External Apps Login</userLicense>
     <userPermissions>
         <enabled>true</enabled>
