@@ -10,6 +10,9 @@
     <layoutAssignments>
         <layout>jhgf__c-jhgf Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>qwert__c-qwert Layout</layout>
+    </layoutAssignments>
     <userLicense>External Apps Login</userLicense>
     <userPermissions>
         <enabled>true</enabled>
