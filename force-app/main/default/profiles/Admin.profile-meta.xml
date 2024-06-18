@@ -5,6 +5,9 @@
         <layout>TestObj2__c-TestObj2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>TestObj3__c-TestObj3 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>TestObject__c-TestObject Layout</layout>
     </layoutAssignments>
     <objectPermissions>
@@ -14,6 +17,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>TestObj2__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>TestObj3__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>

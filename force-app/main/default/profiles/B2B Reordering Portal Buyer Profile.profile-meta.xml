@@ -5,6 +5,9 @@
         <layout>TestObj2__c-TestObj2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>TestObj3__c-TestObj3 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>TestObject__c-TestObject Layout</layout>
     </layoutAssignments>
     <userLicense>External Apps Login</userLicense>
